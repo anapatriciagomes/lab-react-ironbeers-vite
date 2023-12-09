@@ -1,4 +1,4 @@
-import { useEffect, useState, useCallback } from 'react';
+import { useEffect, useState } from 'react';
 import axios from 'axios';
 
 const API_URL = 'https://ih-beers-api2.herokuapp.com/beers/random';
